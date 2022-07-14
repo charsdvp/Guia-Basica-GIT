@@ -6,8 +6,8 @@
 .playa-en-día-oscuro-1-hex { color: #0C0A0B; }
 .playa-en-día-oscuro-2-hex { color: #EEEFF3; }
 .playa-en-día-oscuro-3-hex { color: #C1A192; }
-.playa-en-día-oscuro-4-hex { color: #F14700; }
-.playa-en-día-oscuro-5-hex { color: #F2753B; }
+.playa-en-día-oscuro-4-hex { color: #F14700; } Naranja F
+.playa-en-día-oscuro-5-hex { color: #F2753B; } Naranja
 
 /* Color Theme Swatches in RGBA */
 .playa-en-día-oscuro-1-rgba { color: rgba(11, 10, 11, 1); }
